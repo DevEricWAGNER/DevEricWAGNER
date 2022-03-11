@@ -3,7 +3,7 @@
 
 - 🎮 Je travaille actuellement sur [un Serveur GTA RP](https://discord.gg/xBhBqCSQXv)
 
-- 🌱 Je suis en train d'étudier à **IUT de HAGUENAU**
+- 🌱 J'étudie à **IUT de HAGUENAU**
 
 - 💻 Je travaille également sur [un Site Web pour le Serveur](https://francebackflash.alwaysdata.net)
 

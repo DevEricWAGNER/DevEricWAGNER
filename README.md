@@ -1,17 +1,17 @@
 <h1 align="center">Salut 👋, Je suis Eric WAGNER</h1>
 <h3 align="center">Un passionné du Développement WEB</h3>
 
-- 🎮 Je travaille actuellement sur [un Serveur GTA RP](https://discord.gg/xBhBqCSQXv)
+- 🎮 Je travaille actuellement sur [un Serveur GTA RP](https://discord.gg/7PfDqyEH8Y)
 
 - 🌱 J'étudie à **IUT de HAGUENAU**
 
-- 💻 Je travaille également sur [un Site Web pour le Serveur](https://francebackflash.alwaysdata.net)
+- 💻 Je travaille également sur [un Site Web pour le Serveur](https://francebackflash.com)
 
-- 🤝 Je suis à la recherche de passionnés de [développement](https://discord.gg/WfYmfewreG)
+- 🤝 Je suis à la recherche de passionnés de [développement](https://discord.gg/fCwr862p9g)
 
-- 👨‍💻 Tous mes projets sont visibles sur [https://discord.gg/WfYmfewreG](https://discord.gg/WfYmfewreG)
+- 👨‍💻 Tous mes projets sont visibles sur [https://discord.gg/fCwr862p9g](https://discord.gg/fCwr862p9g)
 
-- 💬 Pour discuter avec moi **https://discord.gg/WfYmfewreG**
+- 💬 Pour discuter avec moi **https://discord.gg/fCwr862p9g**
 
 - 📫 Pour me contacter **ericwagner.contact@gmail.com**
 

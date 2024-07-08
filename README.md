@@ -1,21 +1,27 @@
-<h1 align="center">Salut 👋, Je suis Eric WAGNER</h1>
-<h3 align="center">Un passionné du Développement WEB</h3>
+<h1 align="center">Hi 👋, I'm Eric WAGNER</h1>
+<h3 align="center">A passionate about both front and back-end Web development</h3>
 
-- 🎮 Je travaille actuellement sur [un Serveur GTA RP](https://discord.gg/7PfDqyEH8Y)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webwagner67&label=Profile%20views&color=007bff&style=flat" alt="webwagner67" /> </p>
 
-- 🌱 J'étudie à **IUT de HAGUENAU**
+- 🔭 I’m currently working on [LB Bois de chauffage](http://lbboisdechauffage.webserver.webwagner.fr/)
 
-- 💻 Je travaille également sur [un Site Web pour le Serveur](https://francebackflash.com)
+- 🌱 I’m currently learning **React, NextJS, NuxtJS**
 
-- 🤝 Je suis à la recherche de passionnés de [développement](https://discord.gg/fCwr862p9g)
+- 👯 I’m looking to collaborate on [Wag'CWSU](http://template.webserver.webwagner.fr/controlpanel/project)
 
-- 👨‍💻 Tous mes projets sont visibles sur [https://discord.gg/fCwr862p9g](https://discord.gg/fCwr862p9g)
+- 👨‍💻 All of my projects are available at [https://webwagner.fr](https://webwagner.fr)
 
-- 💬 Pour discuter avec moi **https://discord.gg/fCwr862p9g**
+- 📝 I regularly write articles on [https://ericwagner.fr](https://ericwagner.fr)
 
-- 📫 Pour me contacter **ericwagner.contact@gmail.com**
+- 💬 Ask me about **Laravel**
+
+- 📫 How to reach me **contact@webwagner.fr**
+
+- 📄 Know about my experiences [https://ericwagner.fr](https://ericwagner.fr)
+
+
 # 💫 About Me:
-Je m'appelle Eric WAGNER<br>Je suis développeur WEB<br>J'ai 22 ans
+My Name is Eric WAGNER<br>I am a Web developper<br>I am 22 years old
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric WAGNER</h1>
 <h3 align="center">A passionate about both front and back-end Web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webwagner67&label=Profile%20views&color=007bff&style=flat" alt="webwagner67" /> </p>
+[![](https://visitcount.itsvg.in/api?id=DevEricWAGNER&icon=2&color=6)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [LB Bois de chauffage](http://lbboisdechauffage.webserver.webwagner.fr/)
 
@@ -44,7 +44,6 @@ My Name is Eric WAGNER<br>I am a Web developper<br>I am 22 years old
 ![](https://github-contributor-stats.vercel.app/api?username=DevEricWAGNER&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevEricWAGNER&icon=2&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/franceflashback) 

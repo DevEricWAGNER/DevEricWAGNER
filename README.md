@@ -96,10 +96,6 @@ My Name is Eric WAGNER<br>I am a Web developper<br>I am 22 years old
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevEricWAGNER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevEricWAGNER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEricWAGNER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevEricWAGNER&limit=5&theme=radical&combine_all_yearly_contributions=true)

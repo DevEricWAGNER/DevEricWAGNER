@@ -97,7 +97,7 @@ My Name is Eric WAGNER<br>I am a Web developper<br>I am 22 years old
   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
 </div>
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devericwagner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=devericwagner&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
